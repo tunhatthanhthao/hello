@@ -1,7 +1,7 @@
 /**
 
 *Author: Tu Nhat Thanh Thao
-*Date : 2020
+*Date : 2020/08/19
 * 
 * A simple hello world program
 */
